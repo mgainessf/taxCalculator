@@ -15,6 +15,7 @@
 		CCD17FAE1C3C321E004E98A9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CCD17FAC1C3C321E004E98A9 /* LaunchScreen.storyboard */; };
 		CCD17FB91C3C321E004E98A9 /* taxCalculatorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CCD17FB81C3C321E004E98A9 /* taxCalculatorTests.m */; };
 		CCD17FC41C3C321E004E98A9 /* taxCalculatorUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = CCD17FC31C3C321E004E98A9 /* taxCalculatorUITests.m */; };
+		CCD17FD21C3C51CC004E98A9 /* orange_bg@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = CCD17FD11C3C51CC004E98A9 /* orange_bg@3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		CCD17FBF1C3C321E004E98A9 /* taxCalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = taxCalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCD17FC31C3C321E004E98A9 /* taxCalculatorUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = taxCalculatorUITests.m; sourceTree = "<group>"; };
 		CCD17FC51C3C321E004E98A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CCD17FD11C3C51CC004E98A9 /* orange_bg@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "orange_bg@3x.png"; path = "../../../../../Downloads/taxCalculatorImages/orange_bg@3x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				CCD17FA41C3C321E004E98A9 /* ViewController.h */,
 				CCD17FA51C3C321E004E98A9 /* ViewController.m */,
 				CCD17FA71C3C321E004E98A9 /* Main.storyboard */,
+				CCD17FD11C3C51CC004E98A9 /* orange_bg@3x.png */,
 				CCD17FAA1C3C321E004E98A9 /* Assets.xcassets */,
 				CCD17FAC1C3C321E004E98A9 /* LaunchScreen.storyboard */,
 				CCD17FAF1C3C321E004E98A9 /* Info.plist */,
@@ -245,6 +248,7 @@
 			files = (
 				CCD17FAE1C3C321E004E98A9 /* LaunchScreen.storyboard in Resources */,
 				CCD17FAB1C3C321E004E98A9 /* Assets.xcassets in Resources */,
+				CCD17FD21C3C51CC004E98A9 /* orange_bg@3x.png in Resources */,
 				CCD17FA91C3C321E004E98A9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -496,6 +500,7 @@
 				CCD17FCA1C3C321E004E98A9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CCD17FCB1C3C321E004E98A9 /* Build configuration list for PBXNativeTarget "taxCalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +509,7 @@
 				CCD17FCD1C3C321E004E98A9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CCD17FCE1C3C321E004E98A9 /* Build configuration list for PBXNativeTarget "taxCalculatorUITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +518,7 @@
 				CCD17FD01C3C321E004E98A9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
